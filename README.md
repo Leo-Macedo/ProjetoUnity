@@ -40,3 +40,9 @@ Primeiro criamos uma variável para decidir a "velocidade" que a câmera irá ro
 
 <img src = "img/rotacao1.png" width = "470" height = "500">
 
+### Escala
+<img src = "img/escala.png" width = "650" height = "250">
+
+Primeiro criamos três variáveis, 'minimo' e 'maximo' esses valores definem ate onde o personagem aumenta e diminui, e 'zoom' para a "velocidade" que roda o 'scroll'. O código calcula uma nova escala para o objeto tridimensional com base em um valor de rolagem e um fator de escala adicional. Em seguida, ele limita esse valor dentro de um intervalo específico. Por fim, atualiza a escala do objeto com o novo valor calculado, garantindo que os três eixos tenham a mesma escala.
+
+<img src = "img/escala1.png" width = "650" height = "500">
