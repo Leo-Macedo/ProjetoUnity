@@ -23,19 +23,19 @@ Luzes - Materiais.
 <img src = "img/unity.png" width = "470" height = "250">
 
 # Personagem
-O personagem pegamos na loja de assets, adicionamos a bola em cima dele e a câmera para acompanha-lo enquanto anda.
+O personagem pegamos na loja de assets, adicionamos a bola em cima dele, a câmera para acompanha-lo enquanto anda e o Script para ele andar, rotacionar, aumentar e diminuir.
 
-<img src = "img/boneco.png" width = "470" height = "250">
+<img src = "img/boneco.png" width = "235" height = "125">
 
-<img src = "img/boneco1.png" width = "370" height = "300">
+<img src = "img/boneco1.png" width = "185" height = "150">
 
 ## Script
 ### Movimento
-<img src = "img/movimenta.png" width = "650" height = "250">
+<img src = "img/movimenta.png" width = "435" height = "205">
 
 Primeiro criamos uma variável para decidir a "velocidade" que o personagem andaria. Depois utilizamos o "if" para se uma tecla específica for clicada ele andaria para a frente, trás, direita e esquerda.
 
-<img src = "img/movimenta1.png" width = "470" height = "500">
+<img src = "img/movimenta1.png" width = "400" height = "450">
 
 ### Rotação
 <img src = "img/roracao.png" width = "435" height = "205">
