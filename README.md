@@ -5,7 +5,7 @@ https://drive.google.com/drive/folders/1k8xza7PdPU4IXTUcNMooaXildZhQksBg?usp=dri
 # Descrição
 Essa é uma cena no Unity 3D, onde tem um labirinto com vários obstáculos que o objetivo é chegar ao final sem bater e cair.
 # Cena
-Utilizamos GameObjects 3D, assests da loja e objetos modelados no Blender.
+Utilizamos GameObjects 3D, assests da loja e objetos modelados no Blender. Adicionamos BoxCollider nos objetos para existir colisão.
 
 ## GameObjects no Blender
  Pardedes e Teto - Chão - Espinhos - Portais - Pinos - Tunelzinho - Foice.
@@ -23,7 +23,7 @@ Luzes - Materiais.
 <img src = "img/unity.png" width = "470" height = "250">
 
 # Personagem
-O personagem pegamos na loja de assets, adicionamos a bola em cima dele, a câmera para acompanha-lo enquanto anda e o Script para ele andar, rotacionar, aumentar e diminuir.
+O personagem pegamos na loja de assets, adicionamos a bola em cima dele, a câmera para acompanha-lo enquanto anda e o Script para ele andar, rotacionar, aumentar e diminuir. Também adicionamos BoxCollider, para existir colisão com os objetos e RigidiBody, para existir física no personagem e ele cair.
 
 <img src = "img/boneco.png" width = "235" height = "125">
 
@@ -33,7 +33,7 @@ O personagem pegamos na loja de assets, adicionamos a bola em cima dele, a câme
 ### Movimento
 <img src = "img/movimenta.png" width = "435" height = "205">
 
-Primeiro criamos uma variável para decidir a "velocidade" que o personagem andaria. Depois utilizamos o "if" para se uma tecla específica for clicada ele andaria para a frente, trás, direita e esquerda.
+Primeiro criamos uma variável para decidir a "velocidade" que o personagem andaria. Depois utilizamos o "if" para se uma tecla específica for clicada ele andaria para a frente, trás, direita e esquerda. E a tecla espaço serve para pular (eixo Y).
 
 <img src = "img/movimenta1.png" width = "400" height = "450">
 
