@@ -7,4 +7,4 @@ Utilizamos GameObjects 3D, assests da loja e objetos modelados no Blender.
 
 ## GameObjects no Blender
 Espinhos - Portais - Pinos - Tunelzinho - Foice
-<img src = "blender.png/img">
+<img src = "blender.png/img" width = "1880" height = "1000">
