@@ -52,4 +52,6 @@ Primeiro criamos três variáveis, 'minimo' e 'maximo' esses valores definem ate
 <img src = "img/escala1.png" width = "325" height = "250">
 
 # Vídeo GamePlay
-https://youtu.be/DgTZnbMCR3I
+https://github.com/Leo-Macedo/ProjetoUnity/assets/127630556/4f9b5c64-817e-4197-be8e-393406a66552
+
+
