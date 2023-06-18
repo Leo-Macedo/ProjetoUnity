@@ -18,7 +18,7 @@ Setas - Pendûlos - Pneus - Obstáculos - Policoal - Arco - Letras (WIN) - Bicho
 <img src = "img/loja.png" width = "470" height = "250">
 
 ## Unity
-Luzes - Materiais.
+Luzes - Materiais, adicionamos esses materiais aos objetos modelados no Blender e pegos no Unity.
 
 <img src = "img/unity.png" width = "470" height = "250">
 
