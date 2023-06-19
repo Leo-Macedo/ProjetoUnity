@@ -18,9 +18,10 @@ Setas - Pendûlos - Pneus - Obstáculos - Policoal - Arco - Letras (WIN) - Bicho
 <img src = "img/loja.png" width = "470" height = "250">
 
 ## Unity
-Luzes - Materiais, adicionamos esses materiais aos objetos modelados no Blender e pegos no Unity.
+Música - Luzes - Materiais, adicionamos esses materiais aos objetos modelados no Blender e pegos no Unity.
 
 <img src = "img/unity.png" width = "470" height = "250">
+
 
 # Personagem
 O personagem pegamos na loja de assets, adicionamos a bola em cima dele, a câmera para acompanha-lo enquanto anda e o Script para ele andar, rotacionar, aumentar e diminuir. Também adicionamos BoxCollider, para existir colisão com os objetos e RigidiBody, para existir física no personagem e ele cair.
