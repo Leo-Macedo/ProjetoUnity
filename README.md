@@ -20,7 +20,7 @@ Setas - Pendûlos - Pneus - Obstáculos - Policoal - Arco - Letras (WIN) - Bicho
 ## Unity
 Música - Luzes - Materiais, adicionamos esses materiais aos objetos modelados no Blender e pegos no Unity.
 
-<img src = "img/unity.png" width = "470" height = "250">
+<img src = "img/print.png" width = "470" height = "250">
 
 
 # Personagem
